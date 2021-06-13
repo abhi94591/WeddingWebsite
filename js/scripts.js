@@ -240,7 +240,7 @@ $(document).ready(function () {
 
 // Google map
 function initMap() {
-    var location = {lat: 31.686644680312504, lng: 76.52106272294161}; 
+    var location = {lat: 31.717362185293936, lng: 76.52534456821867}; 
     var map = new google.maps.Map(document.getElementById('map-canvas'), {
         zoom: 15,
         center: location,
