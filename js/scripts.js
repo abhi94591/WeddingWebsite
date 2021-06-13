@@ -254,11 +254,11 @@ function initMap() {
 }
 
 function initBBSRMap() {
-    var la_fiesta = {lat: 31.71740564669239, lng: 76.52532214814737};
+    var la_fiesta = {lat: 31.71756151107286, lng: 76.52557321215052};
     var map = new google.maps.Map(document.getElementById('map-canvas'), {
         zoom: 15,
         center: la_fiesta,
-        scrollwheel: false
+        scrollwheel: true
     });
 
     var marker = new google.maps.Marker({
