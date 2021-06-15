@@ -184,7 +184,7 @@ $(document).ready(function () {
         },
         data: {
             // Event title
-            title: "Abhishek & Nivedita's Wedding",
+            title: "Abhishek and Nivedita's Wedding",
 
             // Event start date
             start: new Date('June 27, 2021 12:00'),
